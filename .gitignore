@@ -1,3 +1,6 @@
 example/node_modules
 example/package-lock.json
 example/package.json
+example/.DS_Store
+example/test/.DS_Store
+.DS_Store
